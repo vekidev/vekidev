@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm vekidev</h1>
 <h3 align="center">A passionate frontend developer from Serbia 🇷🇸</h3>
 
+<a href="ms-settings:">wow</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vekidev&label=Profile%20views&color=0e75b6&style=flat" alt="vekidev" /> </p>
 
 - 🔭 I’m currently working on **nothing 😅**
